@@ -1,0 +1,57 @@
+.main {
+    margin-top: 11.2rem;
+    margin-bottom: 12.8rem;
+}
+.hero-img {
+    margin-bottom: 8rem;
+}
+.inner-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75.2rem;
+}
+.line-first {
+    display: flex;
+    align-items: center;
+    gap: 2.4rem;
+}
+.line-first p{
+    color: #394149;
+    font-family: 'Poppins';
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2;
+}
+.content-header h1{
+    color: #1D3444;
+    font-family: 'Poppins';
+    font-size: 6.4rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -1.92px;
+    margin-top: 2.4rem;
+    margin-bottom: 3.2rem;
+}
+.content-header p{
+    color: #5B5B5B;
+    font-family: 'Poppins';
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.75;
+    margin-bottom: 2.4rem;
+}
+
+.content-header h2{
+    color: #0D1317;
+    font-family: 'Poppins';
+    font-size: 4.8rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.16;
+    letter-spacing: -1.44px;
+    margin-bottom: 2.4rem;
+    margin-top: 4.8rem;
+}

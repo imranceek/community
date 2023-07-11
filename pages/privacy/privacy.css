@@ -1,0 +1,38 @@
+.main {
+    margin-top: 10.8rem;
+    margin-bottom: 12.8rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+.privacy h1{
+    max-width: 75.2rem;
+    color: #1D3444;
+    font-family: Poppins;
+    font-size: 6.4rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -1.92px;
+    margin-bottom: 2.4rem;
+}
+.privacy h3{
+    color: #0D1317;
+    font-family: 'Poppins';
+    font-size: 2.4rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: -0.72px;
+    margin-bottom: 2.4rem;
+    max-width: 75.2rem;
+}
+.privacy p{
+    color: #5B5B5B;
+    font-family: Poppins;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.75;
+    margin-bottom: 2.4rem;
+    max-width: 75.2rem;
+}
